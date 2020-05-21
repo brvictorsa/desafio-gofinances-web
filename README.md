@@ -1,6 +1,8 @@
 ## :rocket: DESAFIO GOFINANCES WEB REACT.JS E TYPESCRIPT
 Aplicação GoFinances web de gestão de transações, utilizando React.js e Typescript, com rotas e envio de arquivos por formulário.
 
+![Layout](https://github.com/brvictorsa/desafio-gofinances-web/blob/master/src/assets/go-finances.png)
+
 ### Rotas da aplicação
 
 Requisitos de implementação das rotas:
